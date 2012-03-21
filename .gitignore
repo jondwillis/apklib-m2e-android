@@ -1,0 +1,6 @@
+/bin
+/gen
+/target
+/.externalToolBuilder
+maven-eclipse.xml
+*~
